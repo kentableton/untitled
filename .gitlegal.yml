@@ -1,0 +1,6 @@
+policy:
+  allow_permissive: true
+  allow_weak_copyleft: true
+  allow_strong_copyleft: true
+  allow_affero_copyleft: true
+  sublicenses_comply: false
